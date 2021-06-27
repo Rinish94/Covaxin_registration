@@ -1,0 +1,10 @@
+.frf-water{
+    display: none;
+    /* float: right; */
+}
+.frf-trigger-button{
+    height: 22px;
+    width: 22px;
+    border-radius: 5px;
+   
+}
