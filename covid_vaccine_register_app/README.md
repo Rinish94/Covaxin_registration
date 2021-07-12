@@ -1,3 +1,8 @@
+Cowin - Website Clone
+Cowin is an app to check the availability of Covid-19 Vaccines
+
+ <img src="https://www.cowin.gov.in/assets/images/largest-vaccine-banner.jpg"/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
